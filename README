@@ -1,3 +1,7 @@
 # jubilant-train
 A joyful or happy train journey
 git init
+echo "# Jubilant Train" > README.md
+git add .
+git commit -m "Initial commit"
+
